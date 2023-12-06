@@ -972,7 +972,8 @@ input,textarea{
         display: inline-flex;
         justify-content: center;
         align-items: center;
-        
+        padding: 10px;
+        margin-left: 18px;
     }
     .download a{
         margin-left: 42px;
