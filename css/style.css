@@ -735,6 +735,7 @@ input,textarea{
     color: rgb(255, 38, 38);
     margin-left: 70px;
     margin-top:  18px;
+    padding:16px;
     display: inline-block;
     transition: transform 0.3s;
 
